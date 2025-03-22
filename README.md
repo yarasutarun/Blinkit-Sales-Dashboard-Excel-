@@ -21,7 +21,7 @@ The **Blink it Sales Dashboard** is an **interactive Microsoft Excel-based analy
 **•	Data Visualization & Filtering** to enhance clarity and usability.  
 #### How to Use
 **1.	Download the Blinkit_Sales_Dashboard.xlsx file.**  
-**2.	**Open it in Microsoft Excel (2016 or later recommended).**  
+**2.	Open it in Microsoft Excel (2016 or later recommended).**  
 **3.	Use filters to explore sales performance based on different metrics.**  
 #### Insights Derived
 **•	The highest sales are from Supermarkets, contributing $787K+ in total sales.**  
